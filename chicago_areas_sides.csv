@@ -1,0 +1,79 @@
+number_area;community_areas;sides;latitude;longitude
+0;Unknown;Unknown;0;0
+1;Rogers Park;Far North Side;42.0096228806;-87.6701668569
+2;West Ridge;Far North Side;42.001571027;-87.6950125892
+3;Uptown;Far North Side;41.96581197;-87.6558787862
+4;Lincoln Square;Far North Side;41.9751709433;-87.6875155152
+5;North Center;North side;41.9477915865;-87.6838349425 
+6;Lake View;North side;41.9442266014;-87.6559981815 
+7;Lincoln Park;North side;41.9226862843;-87.6494887289 
+8;Near North Side;Central;41.899602111;-87.6333080367
+9;Edison Park;Far North Side;42.0076125931;-87.8137810343 
+10;Norwood Park;Far North Side;41.9850151008;-87.8045320063
+11;Jefferson Park;Far North Side;41.9788295262;-87.771166703
+12;Forest Glen;Far North Side;41.9939301285;-87.7583535876
+13;North Park;Far North Side;41.9836363072;-87.7235831853
+14;Albany Park;Far North Side;41.968069;-87.7215590627
+15;Portage Park;Northwest side;41.9540276487;-87.7633990316
+16;Irving Park;Northwest side;41.9535821253;-87.7234523905
+17;Dunning;Northwest side;41.9465114202;-87.8060200025
+18;Montclare;Northwest side;41.9292973683;-87.7980321814
+19;Belmont Cragin;Northwest side;41.9272609555;-87.7655016086
+20;Hermosa;Northwest side;41.9243470769;-87.7347397536
+21;Avondale;North side;41.9386661962;-87.7112105933
+22;Logan Square;North side;41.9227606205;-87.6991553432
+23;Humboldt Park;West Side;41.9000696026;-87.7209182385
+24;West Town;West Side;41.9012069941;-87.6763559892
+25;Austin;West Side;41.8906088526;-87.7560467111
+26;West Garfield Park;West Side;41.8785943576;-87.7302324284
+27;East Garfield Park;West Side;41.8789144956;-87.7058971305
+28;Near West Side;West Side;41.874005383;-87.6635175498
+29;North Lawndale;West Side;41.8601900192;-87.7172201
+30;South Lawndale;West Side;41.8390869059;-87.714003807
+31;Lower West Side;West Side;41.8502663663;-87.667569312
+32;(The) Loop[11];Central;41.8788655841;-87.6251921424
+33;Near South Side;Central;41.8571838585;-87.6203346241
+34;Armour Square;South Side;41.8420761168;-87.6339734222
+35;Douglas;South Side;41.8351179863;-87.6186777673
+36;Oakland;South Side;41.8237128095;-87.6023504372
+37;Fuller Park;South Side;41.8090844303;-87.6324245245
+38;Grand Boulevard;South Side;41.8129489392;-87.6178596758
+39;Kenwood;South Side;41.8089162826;-87.5961833442
+40;Washington Park;South Side;41.7923572233;-87.6179313803
+41;Hyde Park;South Side;41.794090253;-87.592310855
+42;Woodlawn;South Side;41.7788768603;-87.5949254391
+43;South Shore;South Side;41.7615779081;-87.5727819867
+44;Chatham;Far Southeast Side;41.7402057565;-87.6159695226
+45;Avalon Park;Far Southeast Side;41.7441995348;-87.5863483178
+46;South Chicago;Far Southeast Side;41.7412427285;-87.551428197
+47;Burnside;Far Southeast Side;41.728182061;-87.5964755956
+48;Calumet Heights;Far Southeast Side;41.7296764229;-87.5727171342
+49;Roseland;Far Southeast Side;41.7065878819;-87.6233665115
+50;Pullman;Far Southeast Side;41.7061257523;-87.5982558383
+51;South Deering;Far Southeast Side;41.6906333472;-87.5700582686
+52;East Side;Far Southeast Side;41.707311449;-87.5349029012
+53;West Pullman;Far Southeast Side;41.6738199043;-87.6357397768
+54;Riverdale;Far Southeast Side;41.6601360507;-87.60284764
+55;Hegewisch;Far Southeast Side;41.6636706517;-87.5409355129
+56;Garfield Ridge;Southwest Side;41.7925923603;-87.7696154528
+57;Archer Heights;Southwest Side;41.8108790078;-87.7263633246
+58;Brighton Park;Southwest Side;41.8173662079;-87.6988607973
+59;McKinley Park;Southwest Side;41.8299223039;-87.6725026464
+60;Bridgeport;South Side;41.8361501547;-87.6487879519
+61;New City;Southwest Side;41.8090182499;-87.6591665992
+62;West Elsdon;Southwest Side;41.7929819032;-87.7242081939
+63;Gage Park;Southwest Side;41.795430631;-87.6964352325
+64;Clearing;Southwest Side;41.7795828877;-87.768510849
+65;West Lawn;Southwest Side;41.7697780588;-87.7269298425
+66;Chicago Lawn;Southwest Side;41.7718485152;-87.695666342
+67;West Englewood;Southwest Side;41.7759288274;-87.6665962653
+68;Englewood;Southwest Side;41.7771962546;-87.6424975271
+69;Greater Grand Crossing;South Side;41.7632467988;-87.6161341112
+70;Ashburn;Far Southwest Side;41.7457577128;-87.7083657043
+71;Auburn Gresham;Far Southwest Side;41.7442051463;-87.6563059862
+72;Beverly;Far Southwest Side;41.713148612;-87.6750753124
+73;Washington Heights;Far Southwest Side;41.7174930361;-87.6488950721
+74;Mount Greenwood;Far Southwest Side;41.6948789661;-87.7131924966
+75;Morgan Park;Far Southwest Side;41.6897299145;-87.6690544032
+76;O'Hare;Far North Side;41.9802643146;-87.913624596
+77;Edgewater;Far North Side;41.9867117999;-87.6634164054
